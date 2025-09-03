@@ -26,6 +26,6 @@ public class Main {
         System.out.println("Highest: Day " + maxDay + " (" + maxBorrowed + ")");
         System.out.println(holiday ? "Holiday occurred" : "No holidays");
         System.out.printf("Average: %.2f\n", avg);
-        sc.close();
     }
+
 }
